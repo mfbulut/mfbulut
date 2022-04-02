@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning Backend **Express js**
 
-- 📄 Know about my experiences [Computer Gragraphics and Game development](Computer Gragraphics and Game development)
+- I like Computer Gragraphics and Game development
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

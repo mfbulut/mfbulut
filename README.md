@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Furkan Bulut</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning Backend **Express js**
-
 - I like Computer Gragraphics and Game development
 
 <p align="left">
